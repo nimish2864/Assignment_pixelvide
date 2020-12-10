@@ -1,0 +1,25 @@
+.container-fluid{
+    height: 100%;
+    background: linear-gradient(-120deg,#021249,#0a3c6e,#083058);
+}
+
+.container{
+    border: 1px solid red;
+}
+
+h2{
+    text-align: center;
+    font-style: italic;
+    color: whitesmoke;
+}
+
+.table1{
+    margin: 10%;
+    color: #fff;
+}
+
+.img{
+    height:20px;
+    width: 20px;
+    margin-right: 5px;
+}
